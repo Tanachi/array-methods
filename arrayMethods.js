@@ -30,3 +30,6 @@ genericNumberArray.push(10);
 
 var popResult = colors[3];
 colors.pop();
+
+scrambledWords.reverse();
+phoneNumber.reverse();
