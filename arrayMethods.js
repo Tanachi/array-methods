@@ -69,7 +69,9 @@ var randomThingsArray = genericNumberArray.concat(colors);
 var newOrders = [{ takeOut: 'sushi' },{ takeOut: 'hotdog' }];
 var updatedOrders = orderQueue.concat(newOrders);
 
-
-
 var sentence = scrambledWords.join(" ");
 var myFruits = fruitCollection.join(' + ');
+
+
+var favoriteFriends = friends.slice(1,3);
+var owesMoney = friends.slice(3);
