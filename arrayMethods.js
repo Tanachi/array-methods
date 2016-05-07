@@ -33,3 +33,6 @@ colors.pop();
 
 scrambledWords.reverse();
 phoneNumber.reverse();
+
+nextOrder = orderQueue[0];
+orderQueue.shift();
