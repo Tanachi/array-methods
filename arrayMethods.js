@@ -55,3 +55,8 @@ upToTen.sort(function (a, b) {
   if (a < b) return -1;
   return 0;
 });
+
+brownOnly.splice(1,5);
+brownOnly.push('brown');
+brownOnly.push('brown');
+brownOnly.push('brown');
