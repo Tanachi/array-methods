@@ -36,3 +36,6 @@ phoneNumber.reverse();
 
 nextOrder = orderQueue[0];
 orderQueue.shift();
+
+mixedNums.sort();
+mixedWords.sort();
