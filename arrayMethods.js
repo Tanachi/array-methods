@@ -39,3 +39,7 @@ orderQueue.shift();
 
 mixedNums.sort();
 mixedWords.sort();
+
+var notFruit = fruitCollection.splice(1,3);
+gemBox.splice(5,2);
+gemBox.splice(6,4);
