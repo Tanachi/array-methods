@@ -43,3 +43,15 @@ mixedWords.sort();
 var notFruit = fruitCollection.splice(1,3);
 gemBox.splice(5,2);
 gemBox.splice(6,4);
+
+upToTen.push(3);
+upToTen.push(4);
+upToTen.push(5);
+upToTen.push(6);
+upToTen.push(7);
+upToTen.push(8);
+upToTen.sort(function (a, b) {
+  if (a > b) return 1;
+  if (a < b) return -1;
+  return 0;
+});
