@@ -63,3 +63,8 @@ brownOnly.push('brown');
 
 orderedValues.unshift(1,2,3);
 var orderedValuesNewLength = orderedValues.length;
+
+
+var randomThingsArray = genericNumberArray.concat(colors);
+var newOrders = [{ takeOut: 'sushi' },{ takeOut: 'hotdog' }];
+var updatedOrders = orderQueue.concat(newOrders);
