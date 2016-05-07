@@ -60,3 +60,6 @@ brownOnly.splice(1,5);
 brownOnly.push('brown');
 brownOnly.push('brown');
 brownOnly.push('brown');
+
+orderedValues.unshift(1,2,3);
+var orderedValuesNewLength = orderedValues.length;
