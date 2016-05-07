@@ -26,3 +26,7 @@ genericNumberArray.push(7);
 genericNumberArray.push(8);
 genericNumberArray.push(9);
 genericNumberArray.push(10);
+
+
+var popResult = colors[3];
+colors.pop();
