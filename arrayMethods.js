@@ -21,3 +21,8 @@ var nameArray = [];
 nameArray.push('tyler');
 nameArray.push('aratani');
 
+genericNumberArray.push(6);
+genericNumberArray.push(7);
+genericNumberArray.push(8);
+genericNumberArray.push(9);
+genericNumberArray.push(10);
